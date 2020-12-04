@@ -10,5 +10,5 @@ __Webscraped URL:__ [Wiki Page for VA](https://en.wikipedia.org/wiki/Virginia)
 __Collaborators:__
   - Eric Meehan
   - Ismael Mercado
-  - Brandon Miracle
+  - Brandon Miracle rbmiracle@my.waketech.edu - Accepted
   - Kai McGregor krmcgregor1@my.waketech.edu - Accepted
